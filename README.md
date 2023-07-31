@@ -1,4 +1,4 @@
-# zoom-electric-drop
+# zoom-electric-vehicle-drop
 
 Analyzing the reason behind sales decline of zoom electric's recently launched scooter 'sprint'.
 Dataset reffered form bluetick.ai
